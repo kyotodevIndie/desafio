@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O desafio é simples e divertido: **clonar a interface** do game "Double" da Blaze, conforme a imagem abaixo. Seu objetivo é replicar o layout e o design o mais próximo possível do original. A única funcionalidade que precisa estar implementada é a **animação** do giro das "cartas".
+O desafio é simples e divertido: **clonar a interface** do game "Double" da Blaze, conforme a imagem abaixo. Seu objetivo é replicar o layout e o design o mais próximo possível do original. A única funcionalidade que precisa estar implementada é a **animação** do giro dos "tiles".
 
 ## Objetivo
 
@@ -25,7 +25,8 @@ O desafio é simples e divertido: **clonar a interface** do game "Double" da Bla
 
 Aqui está a imagem que você deve utilizar como referência para o design da interface:
 
-![Imagem de Referência](./github/assets/example.png)
+![Imagem de Referência](.github/assets/example.png)
+
 [Visite o site oficial da Blaze para ver o jogo Double](https://blaze.ac/pt/games/double)
 
 ## Dicas
