@@ -11,7 +11,7 @@ O desafio é simples e divertido: **clonar a interface** do game "Double" da Bla
 
 ## Requisitos
 
-- Usar **Vue.js**, e **Typescript**. Você pode utilizar bibliotecas de ui.
+- Usar **Vue.js**, **Typescript** e o **[Quasar](https://quasar.dev/)**.
 - A interface deve ser responsiva e funcionar bem em diferentes tamanhos de tela.
 - A animação deve ser fluida e similar à original.
 
