@@ -25,9 +25,8 @@ O desafio é simples e divertido: **clonar a interface** do game "Double" da Bla
 
 Aqui está a imagem que você deve utilizar como referência para o design da interface:
 
-![Imagem de Referência](./caminho/para/a/imagem.png)
+![Imagem de Referência](./github/assets/example.png)
 [Visite o site oficial da Blaze para ver o jogo Double](https://blaze.ac/pt/games/double)
-
 
 ## Dicas
 
