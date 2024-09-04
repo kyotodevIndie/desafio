@@ -17,6 +17,8 @@ O desafio é simples e divertido: **clonar a interface** do game "Double" da Bla
 
 ## Entrega
 
+o prazo de entrega é de 1 semana! 
+
 1. Envie o seu codigo compactado e anexado em um email para:
 kyotodevindie@gmail.com
 
