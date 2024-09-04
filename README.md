@@ -17,9 +17,8 @@ O desafio é simples e divertido: **clonar a interface** do game "Double" da Bla
 
 ## Entrega
 
-1. Faça um fork deste repositório.
-2. Implemente a solução no seu repositório forkado.
-3. Envie um pull request com o seu código quando terminar.
+1. Envie o seu codigo compactado e anexado em um email para:
+kyotodevindie@gmail.com
 
 ## Imagem de Referência
 
